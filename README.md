@@ -24,5 +24,16 @@ All images are owned by the respected party, we collected the images only for le
 <li>Wayang Suluh</li>
 </ul>
 
+<h2>Documentation</h2>
+<ul>
+<li>Download dataset</li>
+<li>Install libraries</li>
+<li>Create a model</li>
+<li>Train the model</li>
+<li>Validate the model metric</li>
+<li>Save the model</li>
+<li>Convert model to tflite</li>
+</ul>
+
 <h2>Acknowledgements</h2>
 We wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.
