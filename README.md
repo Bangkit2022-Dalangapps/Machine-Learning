@@ -16,14 +16,14 @@ Culture is an invaluable heritage of our ancestors. Culture is also a national i
 <h2>Dataset Collection</h2>
 We collected the data from Google Image and Bing Image.
 All images are owned by the respected party, we collected the images only for learning purposes. Our goal is to collect the good and diverse Wayang images for each class (6 classes). The classes consist of:
-<ul>
+<ol>
 <li>Wayang Beber</li>
 <li>Wayang Gedog</li>
 <li>Wayang Golek</li>
 <li>Wayang Kulit</li>
 <li>Wayang Suluh</li>
 <li>Wayang Krucil</li>
-</ul>
+</ol>
 
 <h2>Documentation</h2>
 <ul>
