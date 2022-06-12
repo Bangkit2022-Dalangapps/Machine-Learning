@@ -22,6 +22,7 @@ All images are owned by the respected party, we collected the images only for le
 <li>Wayang Golek</li>
 <li>Wayang Kulit</li>
 <li>Wayang Suluh</li>
+<li>Wayang Krucil</li>
 </ul>
 
 <h2>Documentation</h2>
